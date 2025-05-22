@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, sou o Lucas Kwok!
 
-<!--
-**lucasokwok/lucasokwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na UNIFESP - Universidade Federal de São Paulo - atualmente no penúltimo ano.
 
-Here are some ideas to get you started:
+📚 Atualmente cursando:
+- Inteligência Artificial
+- Aprendizado de Máquina e Reconhecimento de Padrões
+- Algoritmos e Estruturas de Dados 2
+- Algoritmos em Bioinformática
+- Sistemas Operacionais
+- Linguagens Formais e Autômatos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Repositórios de estudos e projetos acadêmicos.
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-kwok/)
+- Email: lucas.o.kwok@gmail.com
