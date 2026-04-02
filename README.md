@@ -12,5 +12,5 @@
 
 📂 Repositórios de estudos e projetos acadêmicos.
 
-- [LinkedIn](https://www.linkedin.com/in/lucas-kwok/)
+- [LinkedIn](https://www.linkedin.com/in/lucasokwok/)
 - Email: lucas.o.kwok@gmail.com
